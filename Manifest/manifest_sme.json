@@ -5,23 +5,23 @@
   "id": "165dc594-e36a-488f-a8ba-20fcebacad86",
   "packageName": "com.microsoft.teams.faqplus.experts",
   "developer": {
-    "name": "<<companyName>>",
-    "websiteUrl": "<<websiteUrl>>",
-    "privacyUrl": "<<privacyUrl>>",
-    "termsOfUseUrl": "<<termsOfUseUrl>>"
+    "name": "Kellogg School of Management",
+    "websiteUrl": "https://www.kellogg.northwestern.edu",
+    "privacyUrl": "https://www.kellogg.northwestern.edu/policies.aspx",
+    "termsOfUseUrl": "https://www.kellogg.northwestern.edu/policies.aspx"
   },
   "icons": {
     "color": "color.png",
     "outline": "outline.png"
   },
   "name": {
-    "short": "FAQ Plus (Experts Team)"
+    "short": "FAQ Plus (EMBA Team)"
   },
   "description": {
     "short": "A friendly FAQ bot that answers questions and connects you to experts.",
     "full": "A friendly question and answer bot that answers commonly asked questions. If it can't answer, it will put you in touch with an expert as soon as they are available."
   },
-  "accentColor": "#64A2CC",
+  "accentColor": "#4F2582",
   "bots": [
     {
       "botId": "<<botId>>",
@@ -40,8 +40,8 @@
               "description": "Tour of key features"
             },
             {
-              "title": "Ask an expert",
-              "description": "Connect with an expert"
+              "title": "Ask the EMBA team",
+              "description": "Connect with the EMBA team"
             },
             {
               "title": "Share feedback",
